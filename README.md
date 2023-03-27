@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Zofia</h1>
 <h2 align="center">Data Analyst</h2>
 
-<br>
+
 
 <img align="right" alt="Codage" width="400" src="https://user-images.githubusercontent.com/67431758/228056875-1a89863f-e326-4117-a8f3-bc65651620c5.gif">
 
@@ -27,6 +27,7 @@ How to reach me:
 <a href="mailto:z.quillet@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/67431758/228064757-92961b2d-fd84-4520-8a17-826b39e7bd05.svg" alt="" height="30" width="30" /></a>
 </p>
 
+<br>
 <br>
 <br>
 <br>
