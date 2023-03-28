@@ -7,8 +7,8 @@
 
 🌱 Welcome to my Github!
 
-My projects cover Data Analytics and Data Science topics (Machine Learning, NLP)
-from business use cases to environmental and social studies
+My projects cover Data Analytics and Data Science topics (Machine Learning, NLP), 
+ranging from business use cases to environmental and social studies
 
 <!-- <details>
 <summary>My top languages</summary>
