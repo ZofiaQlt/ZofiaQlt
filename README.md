@@ -23,7 +23,7 @@ ranging from business use cases to environmental and social studies
 
 How to reach me:
 <p align="left">
-<a href="https://www.linkedin.com/in/zofia-quillet-data-analyst" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67431758/228067804-ad179400-0b65-4cf2-8ee2-b6eb0228611b.svg" alt="" height="30" width="30" /></a>&nbsp &nbsp
+<a href="https://www.linkedin.com/in/zofia-quillet" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67431758/228067804-ad179400-0b65-4cf2-8ee2-b6eb0228611b.svg" alt="" height="30" width="30" /></a>&nbsp &nbsp
 <a href="mailto:z.quillet@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/67431758/228064757-92961b2d-fd84-4520-8a17-826b39e7bd05.svg" alt="" height="30" width="30" /></a>
 </p>
 
