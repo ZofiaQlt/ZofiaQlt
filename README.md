@@ -5,7 +5,7 @@
 
 <img align="right" alt="Codage" width="400" src="https://user-images.githubusercontent.com/67431758/228056875-1a89863f-e326-4117-a8f3-bc65651620c5.gif">
 
-🌱 Welcome to my Github!
+🌱 Welcome to my Github! 
 
 My projects cover Data Analytics and Data Science topics (Machine Learning, NLP), 
 ranging from business use cases to environmental and social studies
