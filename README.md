@@ -36,8 +36,8 @@ How to reach me:
 
 <br> 
 
-<p align='center' vertical-align='middle'>
-<img width="702" alt="" src="https://user-images.githubusercontent.com/67431758/236621034-3c0fd949-e120-4652-89a6-68b15d7c8271.png">
+<p align='center' vertical-align='middle’>
+<img width="702" alt="logos" src="https://user-images.githubusercontent.com/67431758/228004700-27b207f2-da7a-46ab-97ed-69c6ab914611.png">
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZofiaQlt" alt="" /></p> -->
