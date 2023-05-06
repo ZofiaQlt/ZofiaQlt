@@ -36,7 +36,7 @@ How to reach me:
 
 <br> 
 
-<p align='center' vertical-align='middle’>
+<p align='center' vertical-align='middle'>
 <img width="702" alt="logos" src="https://user-images.githubusercontent.com/67431758/228004700-27b207f2-da7a-46ab-97ed-69c6ab914611.png">
 </p>
 
