@@ -37,7 +37,7 @@ How to reach me:
 <br> 
 
 <p align='center' vertical-align='middle'>
-<img width="702" alt="" src="https://user-images.githubusercontent.com/67431758/236621034-3c0fd949-e120-4652-89a6-68b15d7c8271.png">
+<img width="702" alt="Capture d’écran 2023-10-08 à 17 27 29" src="https://github.com/ZofiaQlt/ZofiaQlt/assets/67431758/e074053a-1fb4-4ad5-8602-a576a4624818">
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZofiaQlt" alt="" /></p> -->
