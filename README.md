@@ -34,10 +34,12 @@ How to reach me:
 
 <h3 align="center">My languages and tools</h3>
 
+
 <br> 
 
 <p align='center' vertical-align='middle'>
-<img width="702" alt="Capture d’écran 2023-10-08 à 17 27 29" src="https://github.com/ZofiaQlt/ZofiaQlt/assets/67431758/e074053a-1fb4-4ad5-8602-a576a4624818">
+<img width="702" alt="Capture d’écran 2023-11-01 à 02 16 37" src="https://github.com/ZofiaQlt/ZofiaQlt/assets/67431758/e6d35c13-8bea-4caa-aa5c-a75ada4e7c45">
 </p>
+
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZofiaQlt" alt="" /></p> -->
